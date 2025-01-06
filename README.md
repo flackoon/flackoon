@@ -37,3 +37,11 @@ These are my results from competitions I've participated in either solo or as a 
 | 3   | Apr 2024 | [Noya](https://code4rena.com/audits/2024-04-noya)                                  | High - 7 (1), Medium - 7 | Undisclosed                            | Yield optimization | Code4rena |
 | 2   | Apr 2024 | [Zivoe](https://audits.sherlock.xyz/contests/280)                                  | High - 1, Medium - 1     | [Link](/reports/contests/Zivoe-04-24.md)       | RWA Credit         | Sherlock  |
 | 1   | Mar 2024 | [AxisFinance](https://audits.sherlock.xyz/contests/206)                            | High - 1, Medium - 1     | [Link](/reports/contests/AxisFinance-03-24.md) | Auction            | Sherlock  |
+
+# Research
+
+Here's a compilation of some of the more interesting research I've done myself and have written articles about or have tweeted about.
+
+1. [Dynamic sized arrays in Solidity](https://x.com/flack00n/status/1841382358039097594)
+2. [Understanding the math behind gas safety checks around the 63/64 rule](https://x.com/flack00n/status/1847303705239916653)
+3. [A walkthrough of the HYPR bridge hack](https://x.com/flack00n/status/1735570186097348912) 
