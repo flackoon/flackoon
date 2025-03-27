@@ -4,15 +4,11 @@
 | Cosmos SDK / Go | ⚡⚡⚡         |
 | Rust            | ⚡           |
 
-## Stats
-
-In total I've found **23 High** Severity issues (1 of which unique) and **27 Medium** Severity issues (3 of which unique) across **10 different** audits.
-
 ### Bug bounties
 
-| №   | Date     | Protocol(s)                                                                        | Severity                 | Write-up                               | Type                | Platform   |
-| --- | -------- | ---------------------------------------------------------------------------------- | ------------------------ | -------------------------------------- | ------------------- | ---------- |
-| 1   | Dec 2024 | 2 Projects (Confidential)                                                          | Medium                   | Soon                                   | Account nonce reuse | HackenProof|
+| Date     | Protocol(s)                                                                        | Severity                 | Write-up                               | Type                |
+| -------- | ---------------------------------------------------------------------------------- | ------------------------ | -------------------------------------- | ------------------- |
+| Dec 2024 | 2 Projects (Confidential)                                                          | Medium                   | Soon                                   | Account nonce reuse |
 
 ### Contests
 
