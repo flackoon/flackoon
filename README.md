@@ -1,8 +1,8 @@
-| Area            | Competence  |
-| --------------- | ----------- |
-| Solidity / EVM  | ⚡⚡️⚡️⚡️️️⚡️       |
-| Cosmos SDK / Go | ⚡⚡⚡         |
-| Rust            | ⚡           |
+| Area                   | Competence  |
+| ---------------------- | ----------- |
+| Solidity / EVM         | ⚡️⚡️⚡️⚡️️️⚡️  |
+| Golang / Cosmos / Geth | ⚡️⚡️⚡️      |
+| Rust                   | ⚡️          |
 
 ### Bug bounties
 
@@ -14,7 +14,7 @@
 
 | Protocol                                                                             | Findings (Unique)        | Report                                         | Type               | Platform  | Position |
 | ------------------------------------------------------------------------------------ | ------------------------ | ---------------------------------------------- | ------------------ | --------- | -------- |
-| [Size Credit](https://cantina.xyz/competitions/d88cb915-64c9-4488-8062-dd16ede7a4a0) | Medium - 1 (1)           | Private                                        | Solidity           | Cantina   | 🥈 2nd   |
+| [Size Credit](https://cantina.xyz/competitions/d88cb915-64c9-4488-8062-dd16ede7a4a0) | Medium - 1 (1)           | [Link](/reports/contests/Size-02-25.md)        | Solidity           | Cantina   | 🥈 2nd   |
 | [Nibiru](https://code4rena.com/audits/2024-11-nibiru)                                | Medium - 3 (1)           | [Link](/reports/contests/Nibiru-11-24.md)      | Cosmos SDK         | Code4rena | 🏅 5th   |
 | [Omni](https://cantina.xyz/competitions/d139882b-2d3a-49ac-9849-9dccef584090)        | High - 2, Medium - 1     | [Link](/reports/contests/Omni-10-24.md)        | Cosmos SDK         | Cantina   | -        |
 | [Symbiotic](https://cantina.xyz/competitions/8bab566e-a6d4-4c1b-9f28-71a94bfd1da2)   | Medium - 1               | [Link](/reports/contests/SymbioticFi-09-24.md) | Solidity           | Cantina   | -        |
