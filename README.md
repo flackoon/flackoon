@@ -12,12 +12,14 @@
 
 ### Contests
 
-| Protocol                                                                             | Findings (Unique)        | Report                                         | Type               | Platform  | Position |
+| Protocol                                                                             | Findings (Unique)        | Report                                         | Type               | Platform  | Details  |
 | ------------------------------------------------------------------------------------ | ------------------------ | ---------------------------------------------- | ------------------ | --------- | -------- |
 | [Private](https://x.com/flack00n/status/1924902897046745482)                         | High - 6, Medium - 3     | Private                                        | Solidity           | Cantina   | 🏅 5th   |
 | [Size Credit](https://cantina.xyz/competitions/d88cb915-64c9-4488-8062-dd16ede7a4a0) | Medium - 1 (1)           | [Link](/reports/contests/Size-02-25.md)        | Solidity           | Cantina   | 🥈 2nd   |
 | [Nibiru](https://code4rena.com/audits/2024-11-nibiru)                                | Medium - 3 (1)           | [Link](/reports/contests/Nibiru-11-24.md)      | Cosmos SDK         | Code4rena | 🏅 5th   |
 | [Noya](https://code4rena.com/audits/2024-04-noya)                                    | High - 7 (1), Medium - 7 | Private                                        | Solidity           | Code4rena | 🏅 4th   |
+| [Jigsaw](https://cantina.xyz/competitions/7a40c849-0b35-4128-b084-d9a83fd533ea)      | High - 1                 | Private                                        | Solidity           | Cantina   |          |
+| [Mezo](https://cantina.xyz/competitions/e757364c-1f68-4ec5-94f6-c6b3c2e80c6d)        | High - 1                 | Private                                        | Cosmos SDK         | Cantina   |          |
 | [Omni](https://cantina.xyz/competitions/d139882b-2d3a-49ac-9849-9dccef584090)        | High - 2, Medium - 1     | [Link](/reports/contests/Omni-10-24.md)        | Cosmos SDK         | Cantina   | -        |
 | [Symbiotic](https://cantina.xyz/competitions/8bab566e-a6d4-4c1b-9f28-71a94bfd1da2)   | Medium - 1               | [Link](/reports/contests/SymbioticFi-09-24.md) | Solidity           | Cantina   | -        |
 | [Flayer](https://audits.sherlock.xyz/contests/468)                                   | High - 3, Medium - 1 (1) | [Link](/reports/contests/Flayer-10-24.md)      | Solidity           | Sherlock  | -        |
