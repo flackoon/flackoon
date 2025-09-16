@@ -8,10 +8,10 @@
 
 | Protocol                                                                             | Findings (Unique)        | Report                                         | Type               | Platform  | Details  |
 | ------------------------------------------------------------------------------------ | ------------------------ | ---------------------------------------------- | ------------------ | --------- | -------- |
-| [Private](https://x.com/flack00n/status/1924902897046745482)                         | High - 6, Medium - 3     | Private                                        | Solidity           | Cantina   | 🏅 5th   |
 | [Size Credit](https://cantina.xyz/competitions/d88cb915-64c9-4488-8062-dd16ede7a4a0) | Medium - 1 (1)           | [Link](/reports/contests/Size-02-25.md)        | Solidity           | Cantina   | 🥈 2nd   |
-| [Nibiru](https://code4rena.com/audits/2024-11-nibiru)                                | Medium - 3 (1)           | [Link](/reports/contests/Nibiru-11-24.md)      | Cosmos SDK         | Code4rena | 🏅 5th   |
 | [Noya](https://code4rena.com/audits/2024-04-noya)                                    | High - 7 (1), Medium - 7 | Private                                        | Solidity           | Code4rena | 🏅 4th   |
+| [Private](https://x.com/flack00n/status/1924902897046745482)                         | High - 6, Medium - 3     | Private                                        | Solidity           | Cantina   | 🏅 5th   |
+| [Nibiru](https://code4rena.com/audits/2024-11-nibiru)                                | Medium - 3 (1)           | [Link](/reports/contests/Nibiru-11-24.md)      | Cosmos SDK         | Code4rena | 🏅 5th   |
 | [Mezo](https://cantina.xyz/competitions/e757364c-1f68-4ec5-94f6-c6b3c2e80c6d)        | High - 1                 | Private                                        | Cosmos SDK         | Cantina   | 🏅 9th   |
 | [Omni](https://cantina.xyz/competitions/d139882b-2d3a-49ac-9849-9dccef584090)        | High - 2, Medium - 1     | [Link](/reports/contests/Omni-10-24.md)        | Cosmos SDK         | Cantina   | 🏅 9th   |
 | [Ethereum Pectra](https://cantina.xyz/competitions/pectra/leaderboard)               | Informational - 1        | [Link](/reports/contests/Pectra-02-25.md)      | DLT (Rust / Golang)| Cantina   | 🏅 11th  |
